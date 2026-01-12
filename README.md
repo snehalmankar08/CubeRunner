@@ -63,4 +63,8 @@ License
 This project is created for learning and educational purposes.
 You are free to modify and improve it.
 
+Gameplay Demo
+
+![Gameplay Preview](media/CubeRunner2-Game-gif.mp4)
+
 
